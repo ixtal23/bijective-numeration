@@ -1,0 +1,35 @@
+# Prerequisites
+*.d
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Object Files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic Libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static Libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Compiled Executables
+*.exe
+*.out
+*.app
+
+# Temporary Directories
+/bin
+/build
+
+# System Files
+.DS_Store
